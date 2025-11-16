@@ -28,8 +28,8 @@ The backend supports:
       ↓ (WRITE)
     MongoDB (direct writes)
 
-✔ Trino handles all read operations  
-✔ MongoDB handles all writes & atomic updates  
+  Trino handles all read operations  
+  MongoDB handles all writes & atomic updates  
 
 ---
 
