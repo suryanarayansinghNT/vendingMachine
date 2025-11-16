@@ -18,7 +18,7 @@ The backend supports:
 
 ---
 
-# 🔧 Architecture
+# Architecture
 
     Client
       ↓
@@ -33,7 +33,7 @@ The backend supports:
 
 ---
 
-# 🛠 Setup Instructions
+# Setup Instructions
 
 ## 1️ Start Minikube
     minikube start
